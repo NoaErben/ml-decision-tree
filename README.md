@@ -4,7 +4,7 @@ This project was developed as part of the **"Machine Learning from Data"** cours
 
 ## 📁 Files
 
-- `hw2.ipynb`: A Jupyter notebook with step-by-step instructions, visualizations, and sanity checks.
+- `notebook.ipynb`: A Jupyter notebook with step-by-step instructions, visualizations, and sanity checks.
 - `ml-decision-tree.py`: A standalone Python module implementing the core logic for the decision tree, including tree construction, entropy calculations, and pruning with a Chi-square threshold.
 
 ## 🚀 Features
